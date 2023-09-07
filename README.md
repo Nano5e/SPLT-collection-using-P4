@@ -8,7 +8,7 @@ The network topology is depicted in the Fig.1.  The simulated network comprises 
 Additionally, there are three hosts: h1, h2, and h3.
 Host h1 is connected to switch s1 with a bandwidth of 10 Mbps. On the other hand, hosts h2 and h3 are connected to switch s7, each having a bandwidth of 10 Mbps. The bandwidth between switches is set to 1 Gbps.
 We do not specify upstream and downstream ports, so for example, in the case of s4, both the upstream and downstream bandwidth for each port are set to be 1Gbps.
-![Fig.1](image.png "Fig.1")
+![Fig.1](./figs/image.png "Fig.1")
 
 
 We conduct simulations in two scenarios: 
